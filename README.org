@@ -1,0 +1,8 @@
+* tree stem gas transport model
+
+This is an implementation of a gas transport model modified from:
+
+Interpretation of stem CO2 efflux measurements. 2009. Teemu Hölttä, Pasi Kolari. Tree Physiology 29(11):1447-1456. doi: 10.1093/treephys/tpp073
+
+
+This repo in intended to be included as a submodule to a (currently private) repo with wrapper code to run the model for parameterisation purposes.
